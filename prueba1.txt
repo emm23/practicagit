@@ -12,7 +12,7 @@ print("No mueve el staging area ni el area de trabajo: git reset --mixed")
 print("Borra todo el proyecto: git reset --hard")
 print("Guarda los commits en txt: git log > commits.txt")
 print("Muestra la ayuda: git help <comando>")
-print("Ver el punto de partida actual: git head")
+print("Ver el punto de partida actual: Head")
 print("Mostrar las ramas: git branch")
 print("Crear una rama: git branch <rama nueva>")
 
