@@ -1,1 +1,15 @@
 print("Segundo archivo de prueba")
+
+print("Iniciar git: git init")
+print("Agregar archivo: git add <archivo>")
+print("Agregar todos los archivos: git add -A")
+print("Agregar un mensaje y actualizar los cambios: git commit -m 'Mensaje'")
+print("Revisar el status: git status")
+print("Retroceder en las versiones: git checkout llave")
+print("Ver todos los log que se han realizado: git log")
+print("No mueve el codigo: git reset --soft")
+print("No mueve el staging area ni el area de trabajo: git reset --mixed")
+print("Borra todo el proyecto: git reset --hard")
+print("Guarda los commits en txt: git log > commits.txt")
+print("Muestra la ayuda: git help <comando>")
+
