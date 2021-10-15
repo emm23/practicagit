@@ -15,6 +15,10 @@ print("Muestra la ayuda: git help <comando>")
 print("Ver el punto de partida actual: Head")
 print("Mostrar las ramas: git branch")
 print("Crear una rama: git branch <rama nueva>")
+print("""Para fusionar las ramas: primero se coloca en la rama que va a absorver, absorbe la rama: git merge <rama_absorber>""")
+print("Para borrar una rama: git branch  -D <rama>")
+print("Crear una rama y moverse a ella: git commit -b <rama>")
+
 
 
 
