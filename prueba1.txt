@@ -20,6 +20,7 @@ print("Para borrar una rama: git branch  -D <rama>")
 print("Crear una rama y moverse a ella: git commit -b <rama>")
 print("Clonar un proyecto: git clone <repositorio>")
 print("Vincula el repositorio local al repositorio remoto: git remote add origin <repositorio>")
-
+print("Eliminar el repositorio remoto: git remote remove origin")
+print("Manda los commits a Github: git push origin <rama>")
 
 
