@@ -18,7 +18,8 @@ print("Crear una rama: git branch <rama nueva>")
 print("""Para fusionar las ramas: primero se coloca en la rama que va a absorver, absorbe la rama: git merge <rama_absorber>""")
 print("Para borrar una rama: git branch  -D <rama>")
 print("Crear una rama y moverse a ella: git commit -b <rama>")
-
+print("Clonar un proyecto: git clone <repositorio>")
+print("Vincula el repositorio local al repositorio remoto: git remote add origin <repositorio>")
 
 
 
